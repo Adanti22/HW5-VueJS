@@ -68,7 +68,7 @@ export default {
 .earth {
   width: 30vw;
   height: 30vw;
-  object-fit: contain;
+  object-fit: cover;
 }
 button {
   width: 30vw;
